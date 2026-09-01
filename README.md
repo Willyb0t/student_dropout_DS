@@ -12,10 +12,8 @@ This repo contains the project I developed for the data science subject, which c
 
 ## Structure
 
-\`\`\`text
+\`\`\`
 ├── data/
-│   ├── README.md                  
-│   └── dataset_preprocesado.csv   
 ├── src/
 │   ├── 01_preprocessing.py       
 │   ├── 02_model_knn.py            
