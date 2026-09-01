@@ -8,7 +8,7 @@
 This repo contains the project I developed for the data science subject, which consists on the prediction on student dropout. The project includes from the cleaning and data wrangling (imputation and class balance) to the training and eval on prediction models (KNN & Multilayer Neural Networks), using cross validation to ensure the quality of the model.
 
 > ** (NDA):**
-> The code and the architecture is open, but the main purpose of the repo is to show my abilities in ML and DS, but this project is under a confidentiality agreement on the dataset, due to that, the dataset is not included. 
+> The code and the architecture is open, but the main purpose of the repo is to show my abilities in ML and DS, and this project is under a confidentiality agreement on the dataset, due to that, the dataset is not included. 
 
 ## Structure
 
