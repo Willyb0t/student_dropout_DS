@@ -1,0 +1,27 @@
+*.csv
+*.xlsx
+*.sqlite3
+*.db
+
+# ==========================================
+# virtual environments y environment variables
+# ==========================================
+venv/
+env/
+.env
+.venv/
+
+# ==========================================
+# temporary files and cache
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ==========================================
+# OS generated files
+# ==========================================
+.DS_Store
+Thumbs.db
